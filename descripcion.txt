@@ -1,0 +1,10 @@
+1. acciones a realizar: registro o login
+
+registro:
+	nombre, apellidos, email, password
+login:
+	identificacion: email,password
+
+	acciones:crear,mostrar,eliminar,salir	
+	
+		crear: titulo,contenido
